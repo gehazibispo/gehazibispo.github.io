@@ -9,6 +9,11 @@ body {
  background-color: grey;
 }
 
+section {
+ text-align: center-box;
+}
+
 h1 {
  color: orange;
+ text-align: center-box;
 }
