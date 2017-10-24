@@ -21,10 +21,14 @@ footer {
 }
 
 #text-white {
- color:white;
+ color: #000;
 }
 
 a,
+:hover:visited {
+text-decoration: none;
+}
+
 a.fa,
 :hover:visited {
  margin-right: 1.5px;
