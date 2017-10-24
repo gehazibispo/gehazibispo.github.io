@@ -20,13 +20,8 @@ footer {
  margin-bottom: 0;
 }
 
-#text-white {
+.text-white {
  color: #000;
-}
-
-a,
-:hover:visited {
-text-decoration: none;
 }
 
 a.fa,
@@ -49,7 +44,12 @@ a.contact {
 }
 
 .fa-heart {
- color: rgba(255, 70, 70, .55)!;
+ color: rgba(255, 70, 70, .55);
+}
+
+.licence,
+:hover:visited {
+text-decoration: none;
 }
 
 /*/ Extra small devices (portrait phones, less than 436px)*/
