@@ -20,7 +20,11 @@ footer {
  margin-bottom: 0;
 }
 
- 
+#text-white {
+ color:white;
+}
+
+a,
 a.fa,
 :hover:visited {
  margin-right: 1.5px;
@@ -41,7 +45,7 @@ a.contact {
 }
 
 .fa-heart {
- color: rgba(255, 70, 70, .55);
+ color: rgba(255, 70, 70, .55)!;
 }
 
 /*/ Extra small devices (portrait phones, less than 436px)*/
