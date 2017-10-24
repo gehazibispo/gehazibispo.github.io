@@ -20,10 +20,6 @@ footer {
  margin-bottom: 0;
 }
 
-.text-white {
- color: #000;
-}
-
 a.fa,
 :hover:visited {
  margin-right: 1.5px;
@@ -47,7 +43,7 @@ a.contact {
  color: rgba(255, 70, 70, .55);
 }
 
-.licence,
+a.licence,
 :hover:visited {
 text-decoration: none;
 }
