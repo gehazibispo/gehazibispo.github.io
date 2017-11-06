@@ -1,23 +1,12 @@
 * {
- -webkit-box-sizing: border-box;
- -moz-box-sizing: border-box;
- -ms-box-sizing:border-box;
- box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing:border-box;
+  box-sizing: border-box;
 }
 
 body {
- background-color: #222;
-}
-
-section {
-}
-
-footer {
- position: static;
- padding-top: 1em;
- padding-bottom: 1em;
- margin-top: 1em;
- margin-bottom: 0;
+  background-color: #222;
 }
 
 a.fa,
@@ -50,8 +39,8 @@ text-decoration: none;
 
 /*/ Extra small devices (portrait phones, less than 436px)*/
 @media (max-width: 436px) { 
- footer {
-  font-size: 14px;
+ #socialmedia {
+  font-size: 16px;
  } 
   
  .credits,
@@ -62,8 +51,8 @@ text-decoration: none;
 
 /*/ Small devices (landscape phones, 576px and up)*/
 @media (min-width: 577px) and (max-width: 768px) {
- footer {
-  font-size: 16px;
+ #socialmedia {
+  font-size: 18px;
  } 
  
  .credits,
@@ -75,8 +64,8 @@ text-decoration: none;
 
 /*/ Medium devices (tablets, 768px and up)*/
 @media (min-width: 769px) and (max-width: 992px) { 
- footer {
-  font-size: 18px;
+ #socialmedia {
+  font-size: 20px;
  }
  
  .credits,
@@ -88,8 +77,8 @@ text-decoration: none;
 
 /*/ Large devices (desktops, 992px and up)*/
 @media (min-width: 993px) and (max-width: 1999px) {
- footer {
-  font-size: 20px;
+ #socialmedia {
+  font-size: 22px;
  }
  .credits,
  #copyright {
