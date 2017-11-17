@@ -5,7 +5,18 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: beige
+}
 
-.sidebar {
+.fullheight {
+  height: 100vh;
+}
+
+#sidebar-wrapper {
+  background-color: white;
+}
+
+#sidebar {
   
 }

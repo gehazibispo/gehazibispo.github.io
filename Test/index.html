@@ -5,44 +5,53 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE-edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <title>Gehazi Bispo</title>
-    <!-- Font Awesome e Bulma cdn links -->
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.1/css/bulma.min.css">
-    <!-- CSS stylesheet -->
+    <!-- Custom CSS stylesheet -->
     <link rel="stylesheet" href="main.css">
-    <link rel="icon" type="image/png" href="#" type="image/x-icon" sizes="16x16">
+    <link rel="icon" type="image/png" href="#" sizes="16x16">
   
   </head>
   
-  <body class="tile is-ancestor container is-fluid">
+  <body class="">
     
-    <div class="tile is-parent is-3 is-fullheight" id="sidebar">
+    <div class="container-fluid">
       
-      <div class="tile is-parent notification">asd</div>
-    
-    </div>
-
-    <div class="tile is-parent is-fullheight" id="main-wrapper">
-      
-      <div class="tile is-parent notification is-primary">
+      <div class="row justify-content-between">
         
-        <div class="tile is-child">
+        <!-- side bar -->
+        <div class="col-6 col-sm-4 col-md-3 col-lg-2 col-xl-2" id="sidebar-wrapper">
           
-          <div class="content hero">
+          <div class="container fullheight" id="sidebar">
             
-            <p class="title">Olá, seja bem vindo!</p>
-            <p class="subtitle">Desculpe-me, esta página ainda está em construção. 😞</p>
+                      
           
           </div>
-        
+          
         </div>
-      
+        
+        <!-- main wrapper -->
+        <div class="col" id="main-wrapper">
+          
+          <!-- content section cards -->
+          <div class="card" id="blog">Blog</div>
+          
+          <div class="card" id="projects">Projects</div>
+          
+        </div>
+        
       </div>
-    
     </div>
+    
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 
   </body>
 
