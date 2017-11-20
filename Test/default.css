@@ -1,0 +1,59 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing:border-box;
+  -ms-box-sizing:border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background-color:beige;
+}
+
+.fullheight {
+  height: 100vh;
+}
+
+#sidebar-wrapper {
+  background-color: #e0e0e0;
+  box-shadow: 2px 1px 2px #aaa;
+}
+
+#sidebar {
+  
+}
+
+#self {
+  border: none;
+  background-color:;
+}
+
+/*#brand,
+#nav, 
+#social,
+#footer {
+  margin: 25px 0 75px 0;
+  padding: 0px;
+}*/
+
+#blog, 
+#projects {
+  margin: 15px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 2px 1px 2px #aaa;
+}
+
+/*/ Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575px) { ... }
+
+/*/ Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767px) { ... }
+
+/*/ Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991px) { ... }
+
+/*/ Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199px) { ... }
+
+/*/ Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
