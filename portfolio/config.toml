@@ -1,0 +1,90 @@
+baseurl = "https://gehazibispo.github.io/"
+title = "Gehazi Bispo // Analista e Cientista do Comportamento"
+theme = "pulp"
+canonifyurls = true
+hasCJKLanguage = true
+# pygmentsCodefences = true
+# pygmentsUseClasses = true
+# googleAnalytics = "{your tracking code}"
+
+[taxonomies]
+  series = "series"
+
+[params]
+    author = "Gehazi Bispo"
+    avatar = "avatar.jpg"
+    favicon = "favicon.ico"
+    description = """
+        Olá, sou Gehazi, analista e cientista do comportamento. 
+        Possuo bacharelado em psicologia e mestrado em teoria e pesquisa do comportamento. 
+        Tenho experiência de investigação experimental em comportamento social e evolução cultural. 
+        Atualmente estou engajado em atividades de ensino de psicologia, e me interesso pela aplicação 
+        de tecnologias computacionais emergentes na investigação do comportamento humano e na resolução 
+        de problemas sociais e de ensino-aprendizagem. Abaixo você encontra links para minhas redes sociais 
+        e e-mail. Sinta-se a vontade em mandar um "Oi".
+    """
+    publicationYear = "2019"
+    # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
+    # singlePageDateFormat = "January 2, 2006"
+    # custom_css = ["/css/custom.css"]
+    # custom_js = ["/js/custom.js"]
+
+[outputs]
+    section = ["JSON", "HTML"]
+
+#[[menu.main]]
+    #identifier = "blog"
+    #name = "Blog" #If display text link, cancel comment out
+    #pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
+    #url = "/blog/"
+    #weight = 10
+
+[[menu.main]]
+    identifier = "lattes"
+    #name = "Lattes"
+    pre = "<i class='fas fa-graduation-cap fa-lg'></i>"
+    url = "http://lattes.cnpq.br/5608555418762961"
+    weight = 10
+
+[[menu.main]]
+    identifier = "researchgate"
+    # name = "ResearchGate"
+    pre = "<i class='fab fa-researchgate fa-lg'></i>"
+    url = "https://www.researchgate.net/profile/Gehazi_Bispo"
+    weight = 20
+
+[[menu.main]]
+    identifier = "linkedin"
+    # name = "Linkedin"
+    pre = "<i class='fab fa-linkedin-in fa-lg'></i>"
+    url = "https://www.linkedin.com/in/gehazibispo/"
+    weight = 30
+
+[[menu.main]]
+    identifier = "twitter"
+    #name = "Twitter"
+    pre = "<i class='fab fa-twitter fa-lg'></i>"
+    url = "https://twitter.com/gehazibispo"
+    weight = 40
+
+[[menu.main]]
+    identifier = "instagram"
+    # name = "Instagram"
+    pre = "<i class='fab fa-instagram fa-lg'></i>"
+    url = "https://www.instagram.com/gehazibispo.psi/"
+    weight = 50    
+
+[[menu.main]]
+    identifier = "github"
+    # name = "GitHub"
+    pre = "<i class='fab fa-github fa-lg'></i>"
+    url = "https://github.com/gehazibispo"
+    weight = 60
+
+[[menu.main]]
+    identifier = "email"
+    # name = "Email"
+    pre = "<i class='fa fa-envelope fa-lg'></i>"
+    url = "mailto:gehazibispo@gmail.com"
+    weight = 70
+
