@@ -12,6 +12,10 @@ body {
     font-size:16px;
     word-wrap:break-word
 }
+
+a {
+    text-decoration: none;
+}
     
 a:link{color:#014034}
 a:visited{color:#4D6C73}
@@ -19,7 +23,6 @@ a:hover{color:#014034}
 a:active{color:#014034}
 
 a.btn {
-    text-decoration: none;
     padding: 0.3em 0.5em;
     background-color: #014034;
     border-color: #014034;
