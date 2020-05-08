@@ -6,8 +6,13 @@
       }
 
       .cls-1 {
+<<<<<<< HEAD
         stroke: #014034;
         stroke-width: 2px;
+=======
+        stroke: #d3d3d3;
+        stroke-width: 3px;
+>>>>>>> eaca22ab93bbf24c05007e2b06e2c6701a40b02e
       }
 
       .cls-2 {
