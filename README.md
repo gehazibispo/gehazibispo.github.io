@@ -9,4 +9,4 @@ This webpage is currently buit upon:
 
 For icons I use [Font Awesome](https://fontawesome.com/) v5.8 icons.
 
-This webpage code (theme, functionalities, utilities, etc.) is released under MIT LICENSE grants, as described in the LICENSE file. Personal information remains personal and private for me.
+This webpage code (theme, functionalities, utilities, etc.) is released under MIT LICENSE grants, as described in the LICENSE file. Personal information remains personal and private to me.
