@@ -21,7 +21,7 @@ body {
 body h3 {
     text-align: right;
     font-size:12px;
-    margin-right: 3vh;
+    margin-right: 25px;
 }
 
 /* The switch - the box around the slider */
@@ -39,11 +39,12 @@ body .switch input {
 
 /* The slider */
 body .slider {
+    width: 26px;
     position: absolute;
     cursor: pointer;
-    top: 0vh;
-    left: 0vh;
-    right: -2.1vh;
+    top: 0;
+    left: 0;
+    right: 0;
     bottom: 0;
     background-color: #ff646c;
     -webkit-transition: .4s;
@@ -58,7 +59,7 @@ body .slider {
     left: 1px;
     top: 1px;
     padding: 1px;
-    background-color: snow;
+    background-color:aliceblue;
     -webkit-transition: .4s;
     transition: .4s;
 }
@@ -68,13 +69,13 @@ body .slider {
 }
   
   input:focus + .slider {
-    box-shadow: 0 0 1px snow;
+    box-shadow: 0 0 1px gray;
 }
 
   input:checked + .slider:before {
     -webkit-transform: translateX(10px);
     -ms-transform: translateX(10px);
-    transform: translateX(11px);
+    transform: translateX(10px);
 }  
 
 /* Rounded sliders */
