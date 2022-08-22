@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/gehazibispo/gehazibispo.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://gehazibispo.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/gehazibispo/gehazibispo.github.io/</loc>
+<loc>https://gehazibispo.github.io/</loc>
 </url>
 <url>
-<loc>https://github.com/gehazibispo/gehazibispo.github.io/o-desafio-do-analista-do-comportamento-na-economia-pos-pandemia/</loc>
+<loc>https://gehazibispo.github.io/o-desafio-do-analista-do-comportamento-na-economia-pos-pandemia/</loc>
 <lastmod>2022-08-21T19:00:06-03:00</lastmod>
 <image:image>
-<image:loc>https://github.com/gehazibispo/gehazibispo.github.io/media/posts/8/hero-globe-2.svg</image:loc>
+<image:loc>https://gehazibispo.github.io/media/posts/8/hero-globe-2.svg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://github.com/gehazibispo/gehazibispo.github.io/o-futuro-da-analise-do-comportamento-e-o-analista-do-comportamento-do-futuro/</loc>
+<loc>https://gehazibispo.github.io/o-futuro-da-analise-do-comportamento-e-o-analista-do-comportamento-do-futuro/</loc>
 <lastmod>2022-08-21T19:40:55-03:00</lastmod>
 <image:image>
-<image:loc>https://github.com/gehazibispo/gehazibispo.github.io/media/posts/7/hero-tunnel.svg</image:loc>
+<image:loc>https://gehazibispo.github.io/media/posts/7/hero-tunnel.svg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://github.com/gehazibispo/gehazibispo.github.io/sobre-mim/</loc>
+<loc>https://gehazibispo.github.io/sobre-mim/</loc>
 <lastmod>2022-08-21T21:13:40-03:00</lastmod>
 <image:image>
-<image:loc>https://github.com/gehazibispo/gehazibispo.github.io/media/posts/6/hero-me-2.svg</image:loc>
+<image:loc>https://gehazibispo.github.io/media/posts/6/hero-me-2.svg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
