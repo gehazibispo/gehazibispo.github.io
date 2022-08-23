@@ -3,21 +3,24 @@
     <title>✦ Gehazi’s States of Mind ✦</title>
     <link href="https://gehazibispo.github.io/feed.xml" rel="self" />
     <link href="https://gehazibispo.github.io" />
-    <updated>2022-08-21T19:40:55-03:00</updated>
+    <updated>2022-08-23T19:06:59-03:00</updated>
     <author>
         <name>Gehazi Bispo</name>
     </author>
     <id>https://gehazibispo.github.io</id>
 
     <entry>
-        <title>➢ O Futuro da Análise do Comportamento e o Analista do Comportamento do Futuro</title>
+        <title>O Futuro da Análise do Comportamento e o Analista do Comportamento do Futuro</title>
         <author>
             <name>Gehazi Bispo</name>
         </author>
         <link href="https://gehazibispo.github.io/o-futuro-da-analise-do-comportamento-e-o-analista-do-comportamento-do-futuro/"/>
         <id>https://gehazibispo.github.io/o-futuro-da-analise-do-comportamento-e-o-analista-do-comportamento-do-futuro/</id>
+            <category term="Tecnologia"/>
+            <category term="Ensaios"/>
+            <category term="Carreira"/>
 
-        <updated>2022-08-21T19:40:55-03:00</updated>
+        <updated>2022-08-23T19:06:59-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gehazibispo.github.io/media/posts/7/hero-tunnel.svg" alt="" />
@@ -28,16 +31,17 @@
         <content></content>
     </entry>
     <entry>
-        <title>➢ O Desafio do Analista do Comportamento na Economia Pós-Pandemia</title>
+        <title>O Desafio do Analista do Comportamento na Economia Pós-Pandemia</title>
         <author>
             <name>Gehazi Bispo</name>
         </author>
         <link href="https://gehazibispo.github.io/o-desafio-do-analista-do-comportamento-na-economia-pos-pandemia/"/>
         <id>https://gehazibispo.github.io/o-desafio-do-analista-do-comportamento-na-economia-pos-pandemia/</id>
             <category term="Tecnologia"/>
+            <category term="Ensaios"/>
             <category term="Carreira"/>
 
-        <updated>2022-08-21T19:00:06-03:00</updated>
+        <updated>2022-08-23T19:05:51-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gehazibispo.github.io/media/posts/8/hero-globe-2.svg" alt="" />
