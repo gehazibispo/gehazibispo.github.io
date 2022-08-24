@@ -25,10 +25,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.34849241"
-     inkscape:cx="150.64891"
-     inkscape:cy="919.6757"
+     inkscape:cx="-101.86735"
+     inkscape:cy="922.5452"
      inkscape:window-width="1354"
-     inkscape:window-height="1027"
+     inkscape:window-height="949"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
@@ -201,6 +201,13 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#00b176;stroke:#0000ff;stroke-width:0.5;fill-opacity:1"
+       id="rect414"
+       width="680"
+       height="1080"
+       x="0"
+       y="0" />
     <g
        inkscape:label="GridCartesian:X10:Y5"
        transform="matrix(2.2519072,0,0,0.74912929,401.10706,161.27288)"

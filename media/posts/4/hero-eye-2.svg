@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="hero-eye.svg"
+   width="680"
+   height="1080"
+   viewBox="0 0 680 1080"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.60318094"
+     inkscape:cx="305.87836"
+     inkscape:cy="768.42614"
+     inkscape:window-width="1680"
+     inkscape:window-height="949"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="lattice2"
+       gridpoint0="-200,-200"
+       gridpoint1="200,-200"
+       gridpoint2="-200,200"
+       gridpoint3="200,200"
+       gridpoint4="-100,-200"
+       gridpoint5="100,-200"
+       gridpoint6="-100,200"
+       gridpoint7="100,200"
+       gridpoint8x9="0,-200"
+       gridpoint10x11="0,200"
+       gridpoint12="-200,-100"
+       gridpoint13="200,-100"
+       gridpoint14="-200,100"
+       gridpoint15="200,100"
+       gridpoint16="-100,-100"
+       gridpoint17="100,-100"
+       gridpoint18="-100,100"
+       gridpoint19="100,100"
+       gridpoint20x21="0,-100"
+       gridpoint22x23="0,100"
+       gridpoint24x26="-200,0"
+       gridpoint25x27="200,0"
+       gridpoint28x30="-100,0"
+       gridpoint29x31="100,0"
+       gridpoint32x33x34x35="0,0"
+       id="path-effect9678"
+       is_visible="true"
+       lpeversion="1"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       perimetral="false"
+       live_update="true" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect9627"
+       is_visible="true"
+       lpeversion="1"
+       yy="true"
+       xx="true"
+       bendpath1="M -200,-200 H 200"
+       bendpath2="M 200,-200 V 200"
+       bendpath3="M -200,200 H 200"
+       bendpath4="M -200,-200 V 200" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="-200,-200"
+       up_right_point="200,-200"
+       down_left_point="-200,200"
+       down_right_point="200,200"
+       id="path-effect8788"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path518,0,1|#circle520,0,1"
+       id="path-effect522" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f38ecd;fill-opacity:1"
+       id="rect356"
+       width="680"
+       height="1080"
+       x="0"
+       y="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g683"
+       id="use685"
+       transform="matrix(1.605455,0,0,1.605455,-163.21305,-728.67506)" />
+    <g
+       id="g1009"
+       transform="matrix(0.14561617,0,0,0.14561617,648.27747,797.83868)">
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="200"
+         style="fill:#ffffff;stroke:#000000;stroke-width:5"
+         inkscape:label="MajorDivCircle2:R200.0"
+         id="circle907" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="195.42426"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log9"
+         id="circle909" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="100"
+         style="fill:#2a7fff;stroke:#000000;stroke-width:5"
+         inkscape:label="MajorDivCircle1:R100.0"
+         id="circle911" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="30.102999"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log2"
+         id="circle913" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="47.712124"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log3"
+         id="circle915" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="60.205997"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log4"
+         id="circle917" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="69.897003"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log5"
+         id="circle919" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="77.815125"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log6"
+         id="circle921" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="84.509804"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log7"
+         id="circle923" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="90.308998"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log8"
+         id="circle925" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="95.424248"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log9"
+         id="circle927" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="130.103"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log2"
+         id="circle929" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="147.71213"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log3"
+         id="circle931" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="160.20599"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log4"
+         id="circle933" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="169.897"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log5"
+         id="circle935" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="177.81512"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log6"
+         id="circle937" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="184.50981"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log7"
+         id="circle939" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="190.30901"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log8"
+         id="circle941" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="M 152.45469,919.79401 V 1019.794"
+         inkscape:label="RadialGridline0"
+         id="path943" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,919.79401 h 100"
+         inkscape:label="RadialGridline1"
+         id="path945" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,919.79401 v -100"
+         inkscape:label="RadialGridline2"
+         id="path947" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,919.79401 h -100"
+         inkscape:label="RadialGridline3"
+         id="path949" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 252.45469,919.79401 h 100"
+         inkscape:label="RadialGridline0"
+         id="path951" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 249.94749,897.54191 97.4932,-22.2521"
+         inkscape:label="RadialGridline1"
+         id="path953" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 242.55159,876.40561 90.0971,-43.3883"
+         inkscape:label="RadialGridline2"
+         id="path955" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 230.63779,857.44501 78.1829,-62.349"
+         inkscape:label="RadialGridline3"
+         id="path957" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 214.80369,841.61091 62.349,-78.1829"
+         inkscape:label="RadialGridline4"
+         id="path959" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 195.84309,829.69711 43.3883,-90.0971"
+         inkscape:label="RadialGridline5"
+         id="path961" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 174.70679,822.30121 22.2521,-97.4932"
+         inkscape:label="RadialGridline6"
+         id="path963" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,819.79401 v -100"
+         inkscape:label="RadialGridline7"
+         id="path965" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 130.20259,822.30121 -22.2521,-97.4932"
+         inkscape:label="RadialGridline8"
+         id="path967" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 109.06629,829.69711 -43.3883,-90.0971"
+         inkscape:label="RadialGridline9"
+         id="path969" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 90.10569,841.61091 -62.349,-78.1829"
+         inkscape:label="RadialGridline10"
+         id="path971" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 74.27159,857.44501 -78.1829,-62.349"
+         inkscape:label="RadialGridline11"
+         id="path973" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 62.35779,876.40561 -90.0971,-43.3883"
+         inkscape:label="RadialGridline12"
+         id="path975" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 54.96189,897.54191 -97.4932,-22.2521"
+         inkscape:label="RadialGridline13"
+         id="path977" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 52.45469,919.79401 h -100"
+         inkscape:label="RadialGridline14"
+         id="path979" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 54.96189,942.04611 -97.4932,22.2521"
+         inkscape:label="RadialGridline15"
+         id="path981" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 62.35779,963.18241 -90.0971,43.38829"
+         inkscape:label="RadialGridline16"
+         id="path983" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="M 74.27159,982.14301 -3.91131,1044.492"
+         inkscape:label="RadialGridline17"
+         id="path985" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="M 90.10569,997.97711 27.75669,1076.16"
+         inkscape:label="RadialGridline18"
+         id="path987" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 109.06629,1009.8909 -43.3883,90.0971"
+         inkscape:label="RadialGridline19"
+         id="path989" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 130.20259,1017.2868 -22.2521,97.4932"
+         inkscape:label="RadialGridline20"
+         id="path991" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,1019.794 v 100"
+         inkscape:label="RadialGridline21"
+         id="path993" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 174.70679,1017.2868 22.2521,97.4932"
+         inkscape:label="RadialGridline22"
+         id="path995" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 195.84309,1009.8909 43.3883,90.0971"
+         inkscape:label="RadialGridline23"
+         id="path997" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 214.80369,997.97711 62.349,78.18289"
+         inkscape:label="RadialGridline24"
+         id="path999" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 230.63779,982.14301 78.1829,62.34899"
+         inkscape:label="RadialGridline25"
+         id="path1001" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 242.55159,963.18241 90.0971,43.38829"
+         inkscape:label="RadialGridline26"
+         id="path1003" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 249.94749,942.04611 97.4932,22.2521"
+         inkscape:label="RadialGridline27"
+         id="path1005" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="35"
+         style="fill:#000000;stroke:#000000;stroke-width:0"
+         inkscape:label="CentreDot"
+         id="circle1007" />
+    </g>
+    <g
+       id="g905"
+       transform="matrix(0.28263999,0,0,0.28263999,564.95301,620.91678)">
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="200"
+         style="fill:#ffffff;stroke:#000000;stroke-width:5"
+         inkscape:label="MajorDivCircle2:R200.0"
+         id="circle803" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="195.42426"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log9"
+         id="circle805" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="100"
+         style="fill:#2a7fff;stroke:#000000;stroke-width:5"
+         inkscape:label="MajorDivCircle1:R100.0"
+         id="circle807" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="30.102999"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log2"
+         id="circle809" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="47.712124"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log3"
+         id="circle811" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="60.205997"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log4"
+         id="circle813" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="69.897003"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log5"
+         id="circle815" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="77.815125"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log6"
+         id="circle817" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="84.509804"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log7"
+         id="circle819" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="90.308998"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log8"
+         id="circle821" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="95.424248"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log9"
+         id="circle823" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="130.103"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log2"
+         id="circle825" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="147.71213"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log3"
+         id="circle827" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="160.20599"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log4"
+         id="circle829" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="169.897"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log5"
+         id="circle831" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="177.81512"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log6"
+         id="circle833" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="184.50981"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log7"
+         id="circle835" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="190.30901"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log8"
+         id="circle837" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="M 152.45469,919.79401 V 1019.794"
+         inkscape:label="RadialGridline0"
+         id="path839" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,919.79401 h 100"
+         inkscape:label="RadialGridline1"
+         id="path841" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,919.79401 v -100"
+         inkscape:label="RadialGridline2"
+         id="path843" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,919.79401 h -100"
+         inkscape:label="RadialGridline3"
+         id="path845" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 252.45469,919.79401 h 100"
+         inkscape:label="RadialGridline0"
+         id="path847" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 249.94749,897.54191 97.4932,-22.2521"
+         inkscape:label="RadialGridline1"
+         id="path849" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 242.55159,876.40561 90.0971,-43.3883"
+         inkscape:label="RadialGridline2"
+         id="path851" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 230.63779,857.44501 78.1829,-62.349"
+         inkscape:label="RadialGridline3"
+         id="path853" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 214.80369,841.61091 62.349,-78.1829"
+         inkscape:label="RadialGridline4"
+         id="path855" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 195.84309,829.69711 43.3883,-90.0971"
+         inkscape:label="RadialGridline5"
+         id="path857" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 174.70679,822.30121 22.2521,-97.4932"
+         inkscape:label="RadialGridline6"
+         id="path859" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,819.79401 v -100"
+         inkscape:label="RadialGridline7"
+         id="path861" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 130.20259,822.30121 -22.2521,-97.4932"
+         inkscape:label="RadialGridline8"
+         id="path863" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 109.06629,829.69711 -43.3883,-90.0971"
+         inkscape:label="RadialGridline9"
+         id="path865" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 90.10569,841.61091 -62.349,-78.1829"
+         inkscape:label="RadialGridline10"
+         id="path867" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 74.27159,857.44501 -78.1829,-62.349"
+         inkscape:label="RadialGridline11"
+         id="path869" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 62.35779,876.40561 -90.0971,-43.3883"
+         inkscape:label="RadialGridline12"
+         id="path871" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 54.96189,897.54191 -97.4932,-22.2521"
+         inkscape:label="RadialGridline13"
+         id="path873" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 52.45469,919.79401 h -100"
+         inkscape:label="RadialGridline14"
+         id="path875" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 54.96189,942.04611 -97.4932,22.2521"
+         inkscape:label="RadialGridline15"
+         id="path877" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 62.35779,963.18241 -90.0971,43.38829"
+         inkscape:label="RadialGridline16"
+         id="path879" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="M 74.27159,982.14301 -3.91131,1044.492"
+         inkscape:label="RadialGridline17"
+         id="path881" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="M 90.10569,997.97711 27.75669,1076.16"
+         inkscape:label="RadialGridline18"
+         id="path883" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 109.06629,1009.8909 -43.3883,90.0971"
+         inkscape:label="RadialGridline19"
+         id="path885" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 130.20259,1017.2868 -22.2521,97.4932"
+         inkscape:label="RadialGridline20"
+         id="path887" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,1019.794 v 100"
+         inkscape:label="RadialGridline21"
+         id="path889" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 174.70679,1017.2868 22.2521,97.4932"
+         inkscape:label="RadialGridline22"
+         id="path891" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 195.84309,1009.8909 43.3883,90.0971"
+         inkscape:label="RadialGridline23"
+         id="path893" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 214.80369,997.97711 62.349,78.18289"
+         inkscape:label="RadialGridline24"
+         id="path895" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 230.63779,982.14301 78.1829,62.34899"
+         inkscape:label="RadialGridline25"
+         id="path897" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 242.55159,963.18241 90.0971,43.38829"
+         inkscape:label="RadialGridline26"
+         id="path899" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 249.94749,942.04611 97.4932,22.2521"
+         inkscape:label="RadialGridline27"
+         id="path901" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="35"
+         style="fill:#000000;stroke:#000000;stroke-width:0"
+         inkscape:label="CentreDot"
+         id="circle903" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use685"
+       id="use801"
+       transform="translate(143.6332,187.70248)" />
+    <g
+       id="g464"
+       transform="translate(-19.586346,16.321955)">
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="200"
+         style="fill:#ffffff;stroke:#000000;stroke-width:5"
+         inkscape:label="MajorDivCircle2:R200.0"
+         id="circle8648" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="195.42426"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log9"
+         id="circle8664" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="100"
+         style="fill:#2a7fff;stroke:#000000;stroke-width:5"
+         inkscape:label="MajorDivCircle1:R100.0"
+         id="circle8630" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="30.102999"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log2"
+         id="circle8632" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="47.712124"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log3"
+         id="circle8634" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="60.205997"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log4"
+         id="circle8636" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="69.897003"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log5"
+         id="circle8638" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="77.815125"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log6"
+         id="circle8640" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="84.509804"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log7"
+         id="circle8642" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="90.308998"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log8"
+         id="circle8644" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="95.424248"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log9"
+         id="circle8646" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="130.103"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log2"
+         id="circle8650" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="147.71213"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log3"
+         id="circle8652" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="160.20599"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log4"
+         id="circle8654" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="169.897"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log5"
+         id="circle8656" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="177.81512"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log6"
+         id="circle8658" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="184.50981"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log7"
+         id="circle8660" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="190.30901"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log8"
+         id="circle8662" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="M 152.45469,919.79401 V 1019.794"
+         inkscape:label="RadialGridline0"
+         id="path8666" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,919.79401 h 100"
+         inkscape:label="RadialGridline1"
+         id="path8668" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,919.79401 v -100"
+         inkscape:label="RadialGridline2"
+         id="path8670" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,919.79401 h -100"
+         inkscape:label="RadialGridline3"
+         id="path8672" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 252.45469,919.79401 h 100"
+         inkscape:label="RadialGridline0"
+         id="path8674" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 249.94749,897.54191 97.4932,-22.2521"
+         inkscape:label="RadialGridline1"
+         id="path8676" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 242.55159,876.40561 90.0971,-43.3883"
+         inkscape:label="RadialGridline2"
+         id="path8678" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 230.63779,857.44501 78.1829,-62.349"
+         inkscape:label="RadialGridline3"
+         id="path8680" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 214.80369,841.61091 62.349,-78.1829"
+         inkscape:label="RadialGridline4"
+         id="path8682" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 195.84309,829.69711 43.3883,-90.0971"
+         inkscape:label="RadialGridline5"
+         id="path8684" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 174.70679,822.30121 22.2521,-97.4932"
+         inkscape:label="RadialGridline6"
+         id="path8686" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,819.79401 v -100"
+         inkscape:label="RadialGridline7"
+         id="path8688" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 130.20259,822.30121 -22.2521,-97.4932"
+         inkscape:label="RadialGridline8"
+         id="path8690" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 109.06629,829.69711 -43.3883,-90.0971"
+         inkscape:label="RadialGridline9"
+         id="path8692" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 90.10569,841.61091 -62.349,-78.1829"
+         inkscape:label="RadialGridline10"
+         id="path8694" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 74.27159,857.44501 -78.1829,-62.349"
+         inkscape:label="RadialGridline11"
+         id="path8696" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 62.35779,876.40561 -90.0971,-43.3883"
+         inkscape:label="RadialGridline12"
+         id="path8698" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 54.96189,897.54191 -97.4932,-22.2521"
+         inkscape:label="RadialGridline13"
+         id="path8700" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 52.45469,919.79401 h -100"
+         inkscape:label="RadialGridline14"
+         id="path8702" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 54.96189,942.04611 -97.4932,22.2521"
+         inkscape:label="RadialGridline15"
+         id="path8704" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 62.35779,963.18241 -90.0971,43.38829"
+         inkscape:label="RadialGridline16"
+         id="path8706" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="M 74.27159,982.14301 -3.91131,1044.492"
+         inkscape:label="RadialGridline17"
+         id="path8708" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="M 90.10569,997.97711 27.75669,1076.16"
+         inkscape:label="RadialGridline18"
+         id="path8710" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 109.06629,1009.8909 -43.3883,90.0971"
+         inkscape:label="RadialGridline19"
+         id="path8712" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 130.20259,1017.2868 -22.2521,97.4932"
+         inkscape:label="RadialGridline20"
+         id="path8714" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,1019.794 v 100"
+         inkscape:label="RadialGridline21"
+         id="path8716" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 174.70679,1017.2868 22.2521,97.4932"
+         inkscape:label="RadialGridline22"
+         id="path8718" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 195.84309,1009.8909 43.3883,90.0971"
+         inkscape:label="RadialGridline23"
+         id="path8720" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 214.80369,997.97711 62.349,78.18289"
+         inkscape:label="RadialGridline24"
+         id="path8722" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 230.63779,982.14301 78.1829,62.34899"
+         inkscape:label="RadialGridline25"
+         id="path8724" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 242.55159,963.18241 90.0971,43.38829"
+         inkscape:label="RadialGridline26"
+         id="path8726" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 249.94749,942.04611 97.4932,22.2521"
+         inkscape:label="RadialGridline27"
+         id="path8728" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="35"
+         style="fill:#000000;stroke:#000000;stroke-width:0"
+         inkscape:label="CentreDot"
+         id="circle8730" />
+    </g>
+    <g
+       id="g683"
+       transform="matrix(0.53250696,0,0,0.53250696,263.87059,503.44609)">
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="200"
+         style="fill:#ffffff;stroke:#000000;stroke-width:5"
+         inkscape:label="MajorDivCircle2:R200.0"
+         id="circle581" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="195.42426"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log9"
+         id="circle583" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="100"
+         style="fill:#2a7fff;stroke:#000000;stroke-width:5"
+         inkscape:label="MajorDivCircle1:R100.0"
+         id="circle585" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="30.102999"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log2"
+         id="circle587" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="47.712124"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log3"
+         id="circle589" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="60.205997"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log4"
+         id="circle591" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="69.897003"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log5"
+         id="circle593" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="77.815125"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log6"
+         id="circle595" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="84.509804"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log7"
+         id="circle597" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="90.308998"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log8"
+         id="circle599" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="95.424248"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle1:Log9"
+         id="circle601" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="130.103"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log2"
+         id="circle603" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="147.71213"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log3"
+         id="circle605" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="160.20599"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log4"
+         id="circle607" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="169.897"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log5"
+         id="circle609" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="177.81512"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log6"
+         id="circle611" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="184.50981"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log7"
+         id="circle613" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="190.30901"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:label="MinorDivCircle2:Log8"
+         id="circle615" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="M 152.45469,919.79401 V 1019.794"
+         inkscape:label="RadialGridline0"
+         id="path617" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,919.79401 h 100"
+         inkscape:label="RadialGridline1"
+         id="path619" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,919.79401 v -100"
+         inkscape:label="RadialGridline2"
+         id="path621" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,919.79401 h -100"
+         inkscape:label="RadialGridline3"
+         id="path623" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 252.45469,919.79401 h 100"
+         inkscape:label="RadialGridline0"
+         id="path625" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 249.94749,897.54191 97.4932,-22.2521"
+         inkscape:label="RadialGridline1"
+         id="path627" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 242.55159,876.40561 90.0971,-43.3883"
+         inkscape:label="RadialGridline2"
+         id="path629" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 230.63779,857.44501 78.1829,-62.349"
+         inkscape:label="RadialGridline3"
+         id="path631" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 214.80369,841.61091 62.349,-78.1829"
+         inkscape:label="RadialGridline4"
+         id="path633" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 195.84309,829.69711 43.3883,-90.0971"
+         inkscape:label="RadialGridline5"
+         id="path635" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 174.70679,822.30121 22.2521,-97.4932"
+         inkscape:label="RadialGridline6"
+         id="path637" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,819.79401 v -100"
+         inkscape:label="RadialGridline7"
+         id="path639" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 130.20259,822.30121 -22.2521,-97.4932"
+         inkscape:label="RadialGridline8"
+         id="path641" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 109.06629,829.69711 -43.3883,-90.0971"
+         inkscape:label="RadialGridline9"
+         id="path643" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 90.10569,841.61091 -62.349,-78.1829"
+         inkscape:label="RadialGridline10"
+         id="path645" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 74.27159,857.44501 -78.1829,-62.349"
+         inkscape:label="RadialGridline11"
+         id="path647" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 62.35779,876.40561 -90.0971,-43.3883"
+         inkscape:label="RadialGridline12"
+         id="path649" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 54.96189,897.54191 -97.4932,-22.2521"
+         inkscape:label="RadialGridline13"
+         id="path651" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 52.45469,919.79401 h -100"
+         inkscape:label="RadialGridline14"
+         id="path653" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 54.96189,942.04611 -97.4932,22.2521"
+         inkscape:label="RadialGridline15"
+         id="path655" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 62.35779,963.18241 -90.0971,43.38829"
+         inkscape:label="RadialGridline16"
+         id="path657" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="M 74.27159,982.14301 -3.91131,1044.492"
+         inkscape:label="RadialGridline17"
+         id="path659" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="M 90.10569,997.97711 27.75669,1076.16"
+         inkscape:label="RadialGridline18"
+         id="path661" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 109.06629,1009.8909 -43.3883,90.0971"
+         inkscape:label="RadialGridline19"
+         id="path663" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 130.20259,1017.2868 -22.2521,97.4932"
+         inkscape:label="RadialGridline20"
+         id="path665" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 152.45469,1019.794 v 100"
+         inkscape:label="RadialGridline21"
+         id="path667" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 174.70679,1017.2868 22.2521,97.4932"
+         inkscape:label="RadialGridline22"
+         id="path669" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 195.84309,1009.8909 43.3883,90.0971"
+         inkscape:label="RadialGridline23"
+         id="path671" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 214.80369,997.97711 62.349,78.18289"
+         inkscape:label="RadialGridline24"
+         id="path673" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 230.63779,982.14301 78.1829,62.34899"
+         inkscape:label="RadialGridline25"
+         id="path675" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 242.55159,963.18241 90.0971,43.38829"
+         inkscape:label="RadialGridline26"
+         id="path677" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 249.94749,942.04611 97.4932,22.2521"
+         inkscape:label="RadialGridline27"
+         id="path679" />
+      <circle
+         cx="152.4547"
+         cy="919.79401"
+         r="35"
+         style="fill:#000000;stroke:#000000;stroke-width:0"
+         inkscape:label="CentreDot"
+         id="circle681" />
+    </g>
+  </g>
+</svg>
