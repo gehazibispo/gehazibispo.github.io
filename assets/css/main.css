@@ -141,6 +141,7 @@ pre {
   margin-top: 1.5rem;
 }
 
+h1,
 h2,
 h3,
 h4,
@@ -713,11 +714,11 @@ textarea {
 }
 
 /* Logo ------------------------ */
-.logo {
+a.logo {
   color: var(--logo-color) !important;
   font-family: var(--logo-font);
   font-size: 1.2rem;
-  font-weight: var(--font-weight-bold);
+  font-weight: var(--headings-weight) !important;
   text-transform: uppercase;
   text-decoration: none !important;
 }
