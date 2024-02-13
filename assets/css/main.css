@@ -125,9 +125,9 @@ a:hover {
 a:active {
   color: var(--color);
 }
-a:focus {
+/*a:focus {
   outline: 2px dotted var(--color);
-}
+}*/
 
 figure,
 blockquote,
@@ -141,7 +141,6 @@ pre {
   margin-top: 1.5rem;
 }
 
-h1,
 h2,
 h3,
 h4,
@@ -436,9 +435,9 @@ button:focus {
 }
 .btn:focus, [type=button]:focus,
 [type=submit]:focus,
-button:focus {
+/*button:focus {
   outline: 2px dotted var(--color);
-}
+}*/
 .btn:disabled, [type=button]:disabled,
 [type=submit]:disabled,
 button:disabled {
@@ -714,11 +713,11 @@ textarea {
 }
 
 /* Logo ------------------------ */
-a.logo {
+.logo {
   color: var(--logo-color) !important;
   font-family: var(--logo-font);
-  font-size: 1.2rem;
-  font-weight: var(--headings-weight) !important;
+  font-size: 1rem !important;
+  font-weight: var(--font-weight-bold);
   text-transform: uppercase;
   text-decoration: none !important;
 }
@@ -942,9 +941,13 @@ a.logo {
 .main__left > header a:active {
   color: var(--white);
 }
-.main__left > header a:focus {
+/*.main__left > header a:focus {
   outline: 2px dotted var(--color);
+}*/
+.main__left > header h2 {
+  margin-top: 0 !important;
 }
+
 .main__right {
   margin-top: 3.75rem;
   padding: 0 4%;
@@ -1153,9 +1156,9 @@ a.logo {
 .post__tag li > a:active {
   color: var(--color);
 }
-.post__tag li > a:focus {
+/*.post__tag li > a:focus {
   outline: 2px dotted var(--color);
-}
+}*/
 .post__tag li > a:before {
   content: "# ";
 }
